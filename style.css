@@ -1,0 +1,12 @@
+/* dimensione logo*/
+.logo {
+    width: 200px;
+    height: 200px;
+}
+
+.title {
+    background-image: url(img/pattern.png);
+    background-color: #4ea0ff;
+    background-size: auto;
+    height: 170px;
+}
