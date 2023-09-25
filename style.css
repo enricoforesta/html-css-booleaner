@@ -41,6 +41,13 @@ h1 {
 }
 
 /* /titolo autore e data */
+/*lista*/
+.list {
+    margin-left: -20px;
+}
+
+/*/lista*/
+
 /* articolo*/
 .paragrafo {
     font-size: 25px;
