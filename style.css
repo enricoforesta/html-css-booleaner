@@ -1,26 +1,35 @@
 body {
     width: auto;
+    font-weight: bold;
 }
 
 /* dimensione logo*/
 .logo {
     width: 200px;
     height: 200px;
+    /* /dimensione logo*/
+
 }
 
+/* dimensione titolo*/
 .title {
     background-image: url(img/pattern.png);
     background-color: #4ea0ff;
     background-size: auto;
     height: 170px;
+    margin: -8px;
 }
+
+/* /dimensione titolo*/
 
 h1 {
     width: 1000px;
     font-size: 40px;
     margin-block-end: 0px;
+    margin-block-start: 16px;
 }
 
+/* titolo autore e data */
 .autore {
     color: #20a9e5;
     font-weight: bold;
@@ -30,9 +39,15 @@ h1 {
     color: #b6b6b6;
     font-weight: bold;
 }
-.paragrafo{
+
+/* /titolo autore e data */
+/* articolo*/
+.paragrafo {
     font-size: 25px;
 }
-.importante{
+
+.importante {
     background-color: yellow;
 }
+
+/* articolo*/
