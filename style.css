@@ -58,3 +58,21 @@ h1 {
 }
 
 /* articolo*/
+/* tabella */
+.v50{
+    width: 50%;
+    text-align: start;
+}
+.v25{
+    width: 25%;
+    text-align: start;
+}
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+
+
+
+
+/* /tabella */
