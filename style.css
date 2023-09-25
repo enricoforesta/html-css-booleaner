@@ -7,11 +7,8 @@ body {
 .logo {
     width: 200px;
     height: 200px;
-    /* /dimensione logo*/
-
 }
 
-/* dimensione titolo*/
 .title {
     background-image: url(img/pattern.png);
     background-color: #4ea0ff;
@@ -20,7 +17,9 @@ body {
     margin: -8px;
 }
 
-/* /dimensione titolo*/
+/* /dimensione logo*/
+
+/* titolo autore e data */
 
 h1 {
     width: 1000px;
@@ -29,18 +28,16 @@ h1 {
     margin-block-start: 16px;
 }
 
-/* titolo autore e data */
 .autore {
     color: #20a9e5;
-    font-weight: bold;
 }
 
 .sottotitolo {
     color: #b6b6b6;
-    font-weight: bold;
 }
 
 /* /titolo autore e data */
+
 /*lista*/
 .list {
     margin-left: -20px;
@@ -58,21 +55,31 @@ h1 {
 }
 
 /* articolo*/
+
 /* tabella */
-.v50{
+table {
+    border-collapse: collapse;
+}
+
+.v50 {
     width: 50%;
-    text-align: start;
 }
-.v25{
+
+.v25 {
     width: 25%;
+}
+
+.v25, .v50{
     text-align: start;
 }
-thead{
+
+thead {
     background-color: #20a9e5;
     color: white;
 }
 
-
-
+.sfondo {
+    background-color: #b1e5f2;
+}
 
 /* /tabella */
