@@ -96,7 +96,7 @@ thead {
 
 /* /tabella */
 
-
+/* immagini finali */
 .box{
     width: 250px;
     height: 150px;
@@ -117,3 +117,4 @@ background-image: url(img/graph.jpg);
 background-size: cover;
 
 }
+/* /immagini finali */
